@@ -1,0 +1,1 @@
+gcc main.c -lglut -lGL -lGLU -lm -o main && ./main
